@@ -1,0 +1,5 @@
+[08-Aug-2017 22:00:41 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[27-Aug-2017 22:35:55 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 65
+[27-Aug-2017 22:37:52 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75
+[27-Aug-2017 22:38:52 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75
+[27-Aug-2017 22:39:52 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75

@@ -1,0 +1,107 @@
+[08-Aug-2017 22:09:41 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:11:46 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:17:24 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:22:34 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:23:15 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:26:02 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:29:40 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[08-Aug-2017 22:31:38 UTC] PHP Fatal error:  Call to undefined function the_field() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/header.php on line 42
+[10-Aug-2017 21:19:59 UTC] PHP Fatal error:  Class 'query_posts' not found in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/index.php on line 36
+[10-Aug-2017 21:20:00 UTC] PHP Fatal error:  Class 'query_posts' not found in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/index.php on line 36
+[10-Aug-2017 21:20:52 UTC] PHP Fatal error:  Class 'query_posts' not found in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/index.php on line 36
+[10-Aug-2017 21:32:09 UTC] PHP Fatal error:  Class 'query_posts' not found in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/index.php on line 36
+[10-Aug-2017 22:19:39 UTC] PHP Fatal error:  Call to undefined function get_content() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 18
+[10-Aug-2017 23:39:57 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 50
+[11-Aug-2017 00:02:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 101
+[11-Aug-2017 00:02:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 101
+[11-Aug-2017 00:04:56 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 51
+[11-Aug-2017 00:05:55 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 51
+[11-Aug-2017 00:17:39 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 69
+[11-Aug-2017 00:20:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 104
+[11-Aug-2017 00:20:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 104
+[11-Aug-2017 00:20:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 104
+[11-Aug-2017 00:24:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 104
+[11-Aug-2017 00:25:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 103
+[11-Aug-2017 00:25:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 103
+[11-Aug-2017 00:26:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 101
+[11-Aug-2017 00:26:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 101
+[11-Aug-2017 00:26:40 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 51
+[11-Aug-2017 01:49:39 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 89
+[11-Aug-2017 01:50:17 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 88
+[11-Aug-2017 01:50:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 88
+[11-Aug-2017 01:53:39 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 88
+[11-Aug-2017 01:54:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 89
+[11-Aug-2017 01:55:39 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 71
+[11-Aug-2017 01:56:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 71
+[11-Aug-2017 01:56:29 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 71
+[11-Aug-2017 01:58:29 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 27
+[11-Aug-2017 01:58:32 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 27
+[11-Aug-2017 01:59:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 21
+[11-Aug-2017 01:59:40 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 21
+[11-Aug-2017 01:59:43 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 21
+[11-Aug-2017 01:59:44 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 21
+[12-Aug-2017 23:32:42 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:33:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:34:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:34:54 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:38:04 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:38:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:38:09 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:46:01 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 53
+[12-Aug-2017 23:48:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:50:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:50:49 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:51:09 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:52:04 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:52:33 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:52:44 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:59:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[12-Aug-2017 23:59:43 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[13-Aug-2017 00:11:10 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 41
+[13-Aug-2017 00:51:30 UTC] PHP Fatal error:  Call to undefined function WP_Query() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page.php on line 45
+[13-Aug-2017 23:08:04 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page_services.php on line 37
+[13-Aug-2017 23:08:05 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/page_services.php on line 37
+[16-Aug-2017 02:19:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 02:21:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 02:21:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 02:25:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 02:25:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 02:33:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:02:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:04:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:04:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:04:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:05:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:11:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[16-Aug-2017 03:12:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fitnessadmin2016/public_html/index.php on line 3
+[27-Aug-2017 22:35:18 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 65
+[27-Aug-2017 22:37:48 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75
+[27-Aug-2017 22:37:50 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75
+[27-Aug-2017 22:37:54 UTC] PHP Fatal error:  Cannot redeclare register_sidebar() (previously declared in /home/fitnessadmin2016/public_html/wp-includes/widgets.php:236) in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/functions.php on line 75
+[01-Sep-2017 16:40:20 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[27-Sep-2017 19:11:39 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`localhost' in /home/fitnessadmin2016/public_html/wp-includes/class-smtp.php on line 369
+[27-Sep-2017 19:12:13 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`localhost' in /home/fitnessadmin2016/public_html/wp-includes/class-smtp.php on line 369
+[27-Sep-2017 19:12:36 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`localhost' in /home/fitnessadmin2016/public_html/wp-includes/class-smtp.php on line 369
+[27-Sep-2017 19:14:44 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`localhost' in /home/fitnessadmin2016/public_html/wp-includes/class-smtp.php on line 369
+[27-Sep-2017 19:16:53 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`localhost' in /home/fitnessadmin2016/public_html/wp-includes/class-smtp.php on line 369
+[08-Oct-2017 09:09:25 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[29-Oct-2017 22:28:50 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[31-Oct-2017 16:18:33 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[31-Oct-2017 16:18:38 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[01-Nov-2017 05:29:40 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[01-Nov-2017 05:29:45 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[12-Nov-2017 14:18:15 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[12-Nov-2017 14:18:23 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[21-Nov-2017 17:06:08 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[04-Dec-2017 19:12:07 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[25-Jan-2018 13:46:31 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[30-Jan-2018 09:21:35 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[02-Feb-2018 14:20:05 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[03-Feb-2018 17:11:32 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[07-Feb-2018 15:29:07 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[07-Feb-2018 15:29:08 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[07-Feb-2018 15:29:14 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[07-Feb-2018 15:29:15 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[21-Feb-2018 16:26:35 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[17-Mar-2018 12:18:16 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
+[22-Mar-2018 16:32:14 UTC] PHP Fatal error:  Call to undefined function the_thumbnail() in /home/fitnessadmin2016/public_html/wp-content/themes/afnTheme/archive.php on line 18
